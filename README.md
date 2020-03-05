@@ -1,5 +1,5 @@
 # Homework Week 4 - Lidar Uncertainty
-This repository contains the notebooks for this week's assignment.
+This repository contains the notebook for this week's assignment.
 Complete the homework in the included `.ipynb` notebook, commit your work, and
 push the changes to github. Your instructor will pull the completed
 assignment after the deadline.
